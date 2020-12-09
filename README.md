@@ -1,6 +1,6 @@
 ### Hi there 👋, Vignesh
 #### Embedded Software Engineer
-![Embedded Software Engineer](https://dzone.com/storage/temp/12334613-971.jpg)
+![Embedded Software Engineer](https://resizeimage.net/mypic/X6SHaqQXXAoNcngg/MkOZL/best-programming-languages-to-.jpg)
 
 Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain
 
