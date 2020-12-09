@@ -3,7 +3,11 @@
 
 Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain
 
-### Skills: C / HTML / CSS / PHP / Java (Android App Development)
+### Skill
+- C Programming
+- HTML / CSS 
+- PHP
+- Java (Android App Development)
 
 - 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning 
 - 📫 How to reach me: vickymadeshwaran@gmail.com 
