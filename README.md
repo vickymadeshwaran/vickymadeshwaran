@@ -10,23 +10,23 @@
 - PHP
 - Java (Android App Development)
 
-#### PLATFORMS
-### OS/Software’s
-●LINUX [Ubuntu]
-●Windows
-●Android Studio
-●XAMPP
-●Visual Studio
+### PLATFORMS
+#### OS/Software’s
+- LINUX [Ubuntu]
+- Windows
+- Android Studio
+- XAMPP
+- Visual Studio
 
 #### Board’s
-●Raspberry Pi 3
-●Arduino UNO
-●Nano Pi Neo V1.3
+- Raspberry Pi 3
+- Arduino UNO
+- Nano Pi Neo V1.3
 
-### COMMUNICATION PROTOCOLS
-●SPI
-●UART
-●Ethernet TCP/IP
+#### COMMUNICATION PROTOCOLS
+- SPI
+- UART
+- Ethernet TCP/IP
 
 ### Contact Details
 - Linkedin:- www.linkedin.com/in/vignesh-m-8ba46a126
