@@ -1,13 +1,13 @@
 ### Hi there 👋, Vignesh
 ### Embedded Software Engineer
 
-### Skill
+#### Skill
 - C Programming
 - HTML / CSS 
 - PHP
 - Java (Android App Development)
 
-### Little About Me
+#### Little About Me
 - 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning 
 - 📫 How to reach me: vickymadeshwaran@gmail.com 
 
