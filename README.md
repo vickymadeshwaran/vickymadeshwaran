@@ -16,6 +16,3 @@
 - Linkedin:- www.linkedin.com/in/vignesh-m-8ba46a126
 - Mail:- vickymadeshwaran@gmail.com
 - Phone:- 9445833243
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vignesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Vignesh) 
-
