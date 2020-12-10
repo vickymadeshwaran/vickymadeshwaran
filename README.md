@@ -1,5 +1,5 @@
 ### Hi there 👋, Vignesh
-#### Embedded Software Engineer
+### Embedded Software Engineer
 
 Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain
 
