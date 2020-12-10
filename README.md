@@ -36,7 +36,7 @@
 ### Career Potential/Experience
 
 |Company/Institute|Location|Designation|Year|
-|:---:|:---:||:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |Swiss Ranks Pvt. Ltd|Bengaluru|Embedded Software Developer|Mar - Nov 2020|
 |Emertxe Information Technology|Bengaluru|Embedded IoT Trainee|Feb - Dec 2019|
 
