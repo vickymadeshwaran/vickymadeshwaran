@@ -4,10 +4,10 @@
 Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain
 
 ### Skill
--C Programming
--HTML / CSS 
--PHP
--Java (Android App Development)
+- C Programming
+- HTML / CSS 
+- PHP
+- Java (Android App Development)
 
 ### Little About Me
 
