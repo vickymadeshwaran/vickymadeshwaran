@@ -65,6 +65,16 @@
 
 ---
 
+### TRAINING
+- Underwent week-long comprehensive in-plant training at Pioneer Power Ltd, Ramanathapuram.
+- Participated week-long internship program at Google Device Lab, Bengaluru.
+
+### CO-CURRICULAR ACTIVITIES 
+- Attended one day workshop on ‘Innovation Management & Intellectual Property’ by Lawcubator 
+- Attended 2-day workshop on ‘3D Modeling & Printing’ by Stratasys at Forge Accelerator
+
+---
+
 ### Contact Details
 - Linkedin:- www.linkedin.com/in/vignesh-m-8ba46a126
 - Mail:- vickymadeshwaran@gmail.com
