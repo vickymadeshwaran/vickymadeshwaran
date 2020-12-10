@@ -31,7 +31,7 @@
 - UART
 - Ethernet TCP/IP
 
-| Company | Designation | Year |
+|Company|Designation|Year|
 
 ### Career Potential/Experience
 
