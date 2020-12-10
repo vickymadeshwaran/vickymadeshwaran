@@ -11,19 +11,19 @@
 - Java (Android App Development)
 
 ### PLATFORMS
-#### OS/Software’s
+####   OS/Software Packages/Server
 - LINUX [Ubuntu]
 - Windows
 - Android Studio
 - XAMPP
 - Visual Studio
 
-#### Board’s
+#### Development Boards & Kits
 - Raspberry Pi 3
 - Arduino UNO
 - Nano Pi Neo V1.3
 
-#### COMMUNICATION PROTOCOLS
+#### Communication Protocols
 - SPI
 - UART
 - Ethernet TCP/IP
