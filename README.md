@@ -1,8 +1,9 @@
 ### Hi there 👋, Vignesh
-### Embedded Software Engineer
+
+#### Embedded Software Developer
 
 ### About Me
-- 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning
+- I am a Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain
 
 ### Skill
 - C Programming
