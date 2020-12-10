@@ -4,7 +4,7 @@
 ### About Me
 - 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning
 
-#### Skill
+### Skill
 - C Programming
 - HTML / CSS 
 - PHP
