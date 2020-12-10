@@ -46,6 +46,13 @@
 - Learned to transform the embedded information to the destination without changing properties of the original image 
 - Overcame difficulties while performing bitwise manipulation of data to embed as well to retrieve the data from the destination image which has been solved after self-introspection
 
+#### 2.Industrial Machine State Monitoring System
+- The purpose of this machine is to connect two ESP with each other as it senses DHT 11 humidity value from one ESP and send that data to another ESP through Wi-Fi. The 2nd ESP was connected to Thing Speak through API key to get data and display data in graphical form. Second ESP was connected to mobile hot-spot to access data and send to Thing Speak. Hence, humidity value get continuously gathered and send to cloud to show graphical data.
+##### Programming Language/Techniques Used
+- Arduino, ESP32 Node MCU
+##### Key Challenges & Learnings
+- This project helps to learn creating APN and Client to communicate with each other to send and share data to cloud.
+
 ### Contact Details
 - Linkedin:- www.linkedin.com/in/vignesh-m-8ba46a126
 - Mail:- vickymadeshwaran@gmail.com
