@@ -1,7 +1,7 @@
 ### Hi there 👋, Vignesh
 ### Embedded Software Engineer
 
-#### Little About Me
+### About Me
 - 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning
 
 #### Skill
