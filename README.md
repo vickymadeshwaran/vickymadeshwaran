@@ -10,7 +10,6 @@ Budding Embedded Software Engineer Actively Looking for immediate Full-Time Oppo
 - Java (Android App Development)
 
 ### Little About Me
-
 - 🌱 I’m currently learning Advancement in Embedded Programming & Machine Learning 
 - 📫 How to reach me: vickymadeshwaran@gmail.com 
 
