@@ -37,7 +37,7 @@
 |Company/Institute|Designation|Year|
 |:---:|:---:|:---:|
 |Swiss Ranks Pvt. Ltd|Embedded Software Developer|Mar - Nov 2020|
-|Emertxe Information Technology|Embedded IoT Trainee|Feb- Dec 2019|
+|Emertxe Information Technology|Embedded IoT Trainee|Feb - Dec 2019|
 
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
