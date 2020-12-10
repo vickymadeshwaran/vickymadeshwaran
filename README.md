@@ -29,6 +29,13 @@
 - UART
 - Ethernet TCP/IP
 
+### Career Potential/Experience
+#### Roles and Responsibilities
+- Developed and tested an automated hand sanitization android app using Android Studio for overseas client
+- Created a local host for web-based registration form using HTML\PHP and interfaced the user information to Azure Cloud Database
+- Designed a web based graphical console for industrial real time status monitoring/control system for digital inputs and outputs using Raspberry Pi 3 and Nano Pi Neo through Ethernet TCP/IP
+- The functionality of the proposed model has been migrated from existing PLC system to Embedded Controller with minor advancements
+
 ### Contact Details
 - Linkedin:- www.linkedin.com/in/vignesh-m-8ba46a126
 - Mail:- vickymadeshwaran@gmail.com
