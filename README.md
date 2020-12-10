@@ -16,34 +16,20 @@
 - LINUX [Ubuntu]
 - Windows
 - Android Studio
+- Microsoft Visual Studio
+- MATLAB/Simulink
 - XAMPP
-- Visual Studio
 
 #### Development Boards & Kits
 - Raspberry Pi 3
 - Arduino UNO
 - Nano Pi Neo V1.3
+- NodeMCU ESP32 
 
 #### Communication Protocols
 - SPI
 - UART
 - Ethernet TCP/IP
-
-Course	School/College or University	Year of Passing	Percentage/CGPA
-B.E
-Electrical & Electronics Engineering [EEE]	SNS College of Engineering,
-Coimbatore	
-May-2018	
-7.09 CGPA
-Matriculation
-HSC	SVM Matric Higher Secondary School, Namakkal	
-June-2014	
-81.3
-Matriculation
-SSLC
-	SVM Matric Higher Secondary School, Namakkal	
-June-2012	
-84.6
 
 ### Career Potential/Experience
 
