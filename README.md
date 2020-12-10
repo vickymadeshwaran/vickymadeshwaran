@@ -10,7 +10,7 @@
 - PHP
 - Java (Android App Development)
 
-#### PLATFORMS Worked with
+#### PLATFORMS
 ### OS/Software’s
 ●LINUX [Ubuntu]
 ●Windows
