@@ -34,6 +34,9 @@
 ---
 ### Career Potential/Experience
 
+|Company/Institute|Designation|Year|
+|---|---|---|
+
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
 - Created a local host for web-based registration form using HTML\PHP and interfaced the user information to Azure Cloud Database
 - Interfaced various peripherals with SPI & UART for various micro controller architectures
