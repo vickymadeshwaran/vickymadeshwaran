@@ -31,9 +31,15 @@
 - UART
 - Ethernet TCP/IP
 
-|Company|Designation|Year|
+
 
 ### Career Potential/Experience
+
+#### Embedded Software Engineer                                                                  
+Swiss Ranks Pvt. Ltd, Bengaluru                                 Mar - Nov  2020   
+
+##### Embedded IoT Trainee                                                                                
+Emertxe Information Technologies, Bengaluru                     Feb - Dec 2019     
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
 - Created a local host for web-based registration form using HTML\PHP and interfaced the user information to Azure Cloud Database
