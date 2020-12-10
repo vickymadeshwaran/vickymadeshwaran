@@ -5,7 +5,7 @@
 ### About Me
 - I am a Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain. Altogether I have 1 year of experience in the industry
 
-### Skill
+### Skills
 - C Programming
 - HTML / CSS 
 - PHP
