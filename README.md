@@ -4,7 +4,7 @@
 
 ### About Me
 - I am a Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain. Altogether I have 1 year of experience in the industry
-
+---
 ### Skills
 - C Programming                  🔹🔹🔹🔹🔸
 - HTML / CSS                     🔹🔹🔹🔸🔸
@@ -31,12 +31,7 @@
 - UART
 - Ethernet TCP/IP
 
-S.No	Qualification	Year of Completion	Aggregate	Board/University
-1	B.E in IT	2005	75.20	VTU, Belgaum
-2	Intermediate(12th/+2)	2001	89.80	Board of Intermediate, Andhra Pradesh
-3	S.S.C (10th)	1999	88.19	SSC Board, Andhra Pradesh
-
-
+---
 ### Career Potential/Experience
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
