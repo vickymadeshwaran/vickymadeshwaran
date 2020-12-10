@@ -29,6 +29,22 @@
 - UART
 - Ethernet TCP/IP
 
+Course	School/College or University	Year of Passing	Percentage/CGPA
+B.E
+Electrical & Electronics Engineering [EEE]	SNS College of Engineering,
+Coimbatore	
+May-2018	
+7.09 CGPA
+Matriculation
+HSC	SVM Matric Higher Secondary School, Namakkal	
+June-2014	
+81.3
+Matriculation
+SSLC
+	SVM Matric Higher Secondary School, Namakkal	
+June-2012	
+84.6
+
 ### Career Potential/Experience
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
