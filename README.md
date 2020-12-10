@@ -46,7 +46,7 @@
 - Interfaced various peripherals with SPI & UART for various micro controller architectures
 - Designed a web based graphical console for industrial real time status monitoring/control system for digital inputs and outputs using Raspberry Pi 3 and Nano Pi Neo through Ethernet TCP/IP. [The functionality of the proposed model has been migrated from existing PLC system to Embedded Controller with minor advancements]
 
-### Embedded IoT Training Project Experience
+### Embedded IoT Training Projects
 
 #### 1.Image Steganography using LSB Encoding & Decoding
 - An innovative technology to hide information within image file and the path where the user wants to save image and extruded file. In digital images the message is concealed within the lowest bits of image. Without changing the size of the image, the information has been encrypted into the image. If exceeds the level then the size of image get crashed.
