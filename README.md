@@ -6,11 +6,11 @@
 - I am a Budding Embedded Software Engineer Actively Looking for immediate Full-Time Opportunities in Embedded Software/IoT domain. Altogether I have 1 year of experience in the industry
 ---
 ### Skills
-|C Programming|               🔹🔹🔹🔹🔸|
-|---|---|
-- HTML / CSS                     🔹🔹🔹🔸🔸
-- PHP                            🔹🔹🔸🔸🔸
-- Java (Android App Development) 🔹🔹🔸🔸🔸
+|C Programming|🔹🔹🔹🔹🔸|
+|---|:---:|
+|HTML / CSS|🔹🔹🔹🔸🔸|
+|PHP|🔹🔹🔸🔸🔸|
+|Java (Android App Development) |🔹🔹🔸🔸🔸|
 
 ### PLATFORMS
 ####   OS/Software Packages/Server
