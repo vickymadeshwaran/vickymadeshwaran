@@ -31,15 +31,13 @@
 - UART
 - Ethernet TCP/IP
 
+S.No	Qualification	Year of Completion	Aggregate	Board/University
+1	B.E in IT	2005	75.20	VTU, Belgaum
+2	Intermediate(12th/+2)	2001	89.80	Board of Intermediate, Andhra Pradesh
+3	S.S.C (10th)	1999	88.19	SSC Board, Andhra Pradesh
 
 
 ### Career Potential/Experience
-
-#### Embedded Software Engineer                                                                  
-Swiss Ranks Pvt. Ltd, Bengaluru                                 Mar - Nov  2020   
-
-##### Embedded IoT Trainee                                                                                
-Emertxe Information Technologies, Bengaluru                     Feb - Dec 2019     
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
 - Created a local host for web-based registration form using HTML\PHP and interfaced the user information to Azure Cloud Database
