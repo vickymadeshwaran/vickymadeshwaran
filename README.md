@@ -31,6 +31,8 @@
 - UART
 - Ethernet TCP/IP
 
+| Company | Designation | Year |
+
 ### Career Potential/Experience
 
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
