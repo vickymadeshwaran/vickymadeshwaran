@@ -33,14 +33,14 @@
 - Ethernet TCP/IP
 
 ---
+### Career Potential/Experience
 
 |Company/Institute|Designation|Year|
 |:---:|:---:|:---:|
 |Swiss Ranks Pvt. Ltd|Embedded Software Developer|Mar - Nov 2020|
 |Emertxe Information Technology|Embedded IoT Trainee|Feb - Dec 2019|
 
-### Career Potential/Experience
-
+#### Roles & Responsibilities
 - Developed and tested an automated hand sanitization android app using Android Studio for an overseas client
 - Created a local host for web-based registration form using HTML\PHP and interfaced the user information to Azure Cloud Database
 - Interfaced various peripherals with SPI & UART for various micro controller architectures
