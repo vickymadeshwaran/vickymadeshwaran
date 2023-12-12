@@ -1,4 +1,4 @@
-## Vignesh Madeswaran
+### Vignesh Madeswaran
 #### Certified Embedded IoT Professional
 
 ---
@@ -12,13 +12,15 @@ I am a certified Embedded IoT professional with a diverse background in software
   - 🖥️ Designed a web-based graphical console for an Industrial real-time status monitoring/control system using C for digital I/O with Raspberry Pi and Nano Pi Neo via Ethernet TCP/IP.
 
 - **Bevywise Networks (DevOps Engineer at Indo MiM Private Limited)**:
-  - 🛠️ Managed multiple Ubuntu and Windows servers, proficient in MQTT, Elastic search, MySQL, and MS SQL.
-  - 🐍 Developed custom Python scripts for Elastic search data manipulation, IoT device connections, and data validation.
-  - 🌐 Worked extensively with IoT devices, PLCs (Allen Bradley, Innovance, Siemens, Mitsubishi Motors), and Embedded boards for live parameter display and data collection.
-
+  - Managed multiple Ubuntu and Windows servers with various applications and services.
+  - Proficient in MQTT, NTP server, MySQL, MS SQL, and Elastic search.
+  - Developed custom Python scripts for Elastic search data manipulation and querying.
+  - Connected IoT devices, collected & validated data, ensured network-related tasks.
+  - Created Python full-stack code for IoT device live status monitoring and data collection.
+  - Extensive work with PLCs and Embedded boards for sensor data collection.
 ---
 
-### 💡 Skills and Technologies
+#### 💡 Skills and Technologies
 
 - **Programming Languages:** Python, Embedded C, Java
 - **Web Development:** HTML, CSS
@@ -28,14 +30,14 @@ I am a certified Embedded IoT professional with a diverse background in software
 
 ---
 
-### 🌟 Contributions
+#### 🌟 Contributions
 
 - **Project Contributions:** Android App Development, Industrial Real-time Monitoring, IoT Device Connectivity, Python Scripting, Server Management
 - **Demonstrations & SOPs:** Presented demos, created SOPs, and collaborated with overseas clients.
 
 ---
 
-### 📫 Contact Information
+#### 📫 Contact Information
 
 - **Email:** vickymadeshwaran@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vignesh-m-8ba46a126/
