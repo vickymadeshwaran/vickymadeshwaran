@@ -7,10 +7,6 @@
 
 I am a certified Embedded IoT professional with a diverse background in software engineering and DevOps. My experience spans across:
 
-- **Swiss Ranks Private Limited (Embedded Software Engineer)**:
-  - 📱 Worked on Android App Development for COVID-19-related projects.
-  - 🖥️ Designed a web-based graphical console for an Industrial real-time status monitoring/control system using C for digital I/O with Raspberry Pi and Nano Pi Neo via Ethernet TCP/IP.
-
 - **Bevywise Networks (DevOps Engineer at Indo MiM Private Limited)**:
   - Managed multiple Ubuntu and Windows servers with various applications and services.
   - Proficient in MQTT, NTP server, MySQL, MS SQL, and Elastic search.
@@ -18,6 +14,11 @@ I am a certified Embedded IoT professional with a diverse background in software
   - Connected IoT devices, collected & validated data, ensured network-related tasks.
   - Created Python full-stack code for IoT device live status monitoring and data collection.
   - Extensive work with PLCs and Embedded boards for sensor data collection.
+
+- **Swiss Ranks Private Limited (Embedded Software Engineer)**:
+  - 📱 Worked on Android App Development for COVID-19-related projects.
+  - 🖥️ Designed a web-based graphical console for an Industrial real-time status monitoring/control system using C for digital I/O with Raspberry Pi and Nano Pi Neo via Ethernet TCP/IP.
+
 ---
 
 #### 💡 Skills and Technologies
@@ -41,4 +42,4 @@ I am a certified Embedded IoT professional with a diverse background in software
 
 - **Email:** vickymadeshwaran@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/vignesh-m-8ba46a126/
-- **Contact:** 9445833243, 8072293815
+- **Contact:** 9445833243
